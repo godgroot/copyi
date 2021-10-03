@@ -46,7 +46,7 @@ AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_chan
 
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 
-TUTORIAL = "https://youtu.be/5hnYOKBzyi8"
+TUTORIAL = "https://t.me/CINEMAZIPLINKS/6"
 
 # MongoDB information
 
