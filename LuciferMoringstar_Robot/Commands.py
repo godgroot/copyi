@@ -164,7 +164,7 @@ async def start(bot, message):
 
                     [
 
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🎖 Channels 🎖', url=f'{TUTORIAL}')
 
                     ]
 
@@ -604,7 +604,7 @@ async def bot_info(bot, message):
 
             
 
-            InlineKeyboardButton('Deploy Video', url=f'{TUTORIAL}')
+            InlineKeyboardButton('⚔️CINEMAZIP⚔️', url=f'{TUTORIAL}')
 
         ]
 
