@@ -46,9 +46,9 @@ HELP = """
 
 ➥ /delete Delete File From Database
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+<b>[➡️How To Add Old Files For database](https://t.me/share/url?url=https://t.me/cinemazip)
 
-@Mo_Tech_YT>/b>
+@CINEMAZIP>/b>
 
 """
 
@@ -60,7 +60,7 @@ ABOUT = """
 
 ➥ Credits : Ashaan
 
-➥ Editing : [Muhammed RK](t.me/im_godgroot)
+➥ Editing : [ആശാൻ Aashaan ❌](t.me/im_godgroot)
 
 ➥ Language : Python3
 
